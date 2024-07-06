@@ -1,2 +1,1 @@
-# weekendintern
-newrepo
+this is our weekend intern
